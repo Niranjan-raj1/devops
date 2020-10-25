@@ -1,5 +1,1 @@
-<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
-<h2> Glad to see you here </h2>
-<h1>Soumya is the sexy Boy</h1>
-<h2>Who is always looks for Milk</h2>
+<h2>Wish you all happy Navatrati</h2>
